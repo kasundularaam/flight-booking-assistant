@@ -1,0 +1,846 @@
+intent,text
+greeting,hi
+greeting,hello
+greeting,hey
+greeting,hi there
+greeting,hello there
+greeting,hey there
+greeting,good morning
+greeting,good afternoon
+greeting,good evening
+greeting,morning
+greeting,evening
+greeting,afternoon
+greeting,greetings
+greeting,howdy
+greeting,hi hi
+greeting,hiya
+greeting,heya
+greeting,hello hello
+greeting,hey hey
+greeting,hi everyone
+greeting,hello everyone
+greeting,hi bot
+greeting,hello bot
+greeting,sup
+greeting,whats up
+greeting,what's up
+greeting,wassup
+greeting,yo
+greeting,hola
+greeting,hi friend
+greeting,hello friend
+greeting,hey friend
+greeting,hi buddy
+greeting,hello buddy
+greeting,hey buddy
+greeting,hi pal
+greeting,hello pal
+greeting,greetings everyone
+greeting,morning everyone
+greeting,evening everyone
+greeting,afternoon everyone
+greeting,hi folks
+greeting,hello folks
+greeting,hey folks
+greeting,hi all
+greeting,hello all
+greeting,hey all
+greeting,hi team
+greeting,hello team
+greeting,hey team
+greeting,morning there
+greeting,evening there
+greeting,afternoon there
+greeting,hi anyone there
+greeting,hello anyone there
+greeting,hey anyone there
+greeting,hi anyone
+greeting,hello anyone
+greeting,hey anyone
+greeting,anybody there
+greeting,anyone there
+greeting,hi is anyone there
+greeting,hello is anyone there
+greeting,hey is anyone there
+greeting,greetings everyone
+greeting,hi how are you
+greeting,hello how are you
+greeting,hey how are you
+greeting,hi how r u
+greeting,hello how r u
+greeting,hey how r u
+greeting,hii
+greeting,heyy
+greeting,helloo
+greeting,hiiii
+greeting,heyyyy
+greeting,hellooo
+greeting,hi!!
+greeting,hello!!
+greeting,hey!!
+greeting,hi :)
+greeting,hello :)
+greeting,hey :)
+greeting,hi...
+greeting,hello...
+greeting,hey...
+greeting,hi?
+greeting,hello?
+greeting,hey?
+greeting,hi can you help
+greeting,hello can you help
+greeting,hey can you help
+greeting,hi need help
+greeting,hello need help
+greeting,hey need help
+greeting,hi assistance needed
+greeting,hello assistance needed
+greeting,hey assistance needed
+greeting,start
+greeting,begin
+greeting,lets start
+greeting,lets begin
+identity,my name is john
+identity,i am john
+identity,i'm john
+identity,call me john
+identity,name's john
+identity,its john
+identity,it's john
+identity,this is john
+identity,john here
+identity,my name's john
+identity,im john
+identity,you can call me john
+identity,please call me john
+identity,my name is sarah
+identity,i am sarah
+identity,i'm sarah
+identity,call me sarah
+identity,name's sarah
+identity,its sarah
+identity,it's sarah
+identity,this is sarah
+identity,sarah here
+identity,my name's sarah
+identity,im sarah
+identity,you can call me sarah
+identity,please call me sarah
+identity,my name is mike
+identity,i am mike
+identity,i'm mike
+identity,call me mike
+identity,name's mike
+identity,its mike
+identity,it's mike
+identity,this is mike
+identity,mike here
+identity,my name's mike
+identity,im mike
+identity,you can call me mike
+identity,please call me mike
+identity,my name is emma
+identity,i am emma
+identity,i'm emma
+identity,call me emma
+identity,name's emma
+identity,its emma
+identity,it's emma
+identity,this is emma
+identity,emma here
+identity,my name's emma
+identity,im emma
+identity,you can call me emma
+identity,please call me emma
+identity,my name is alex
+identity,i am alex
+identity,i'm alex
+identity,call me alex
+identity,name's alex
+identity,its alex
+identity,it's alex
+identity,this is alex
+identity,alex here
+identity,my name's alex
+identity,im alex
+identity,you can call me alex
+identity,please call me alex
+identity,my name is lisa
+identity,i am lisa
+identity,i'm lisa
+identity,call me lisa
+identity,name's lisa
+identity,its lisa
+identity,it's lisa
+identity,this is lisa
+identity,lisa here
+identity,my name's lisa
+identity,im lisa
+identity,you can call me lisa
+identity,please call me lisa
+identity,my name is tom
+identity,i am tom
+identity,i'm tom
+identity,call me tom
+identity,name's tom
+identity,its tom
+identity,it's tom
+identity,this is tom
+identity,tom here
+identity,my name's tom
+identity,im tom
+identity,you can call me tom
+identity,please call me tom
+identity,hey im david
+identity,hi im anna
+identity,hello im peter
+identity,hey i'm mary
+identity,hi i'm james
+identity,hello i'm kate
+booking,book a flight
+booking,i need a flight
+booking,looking for flights
+booking,want to book flight
+booking,need to book a trip
+booking,find me a flight
+booking,search for flights
+booking,show me flights
+booking,flight booking
+booking,book ticket
+booking,need a ticket
+booking,want to fly
+booking,looking to fly
+booking,need to travel
+booking,find flights
+booking,flight search
+booking,search flights
+booking,book flights
+booking,flight booking please
+booking,help me book flight
+booking,help book ticket
+booking,check flights
+booking,check flight prices
+booking,show flight options
+booking,need flight options
+booking,find me tickets
+booking,search tickets
+booking,get me a ticket
+booking,want to travel
+booking,plan a trip
+booking,book a trip
+booking,find cheap flights
+booking,need cheap tickets
+booking,looking for tickets
+booking,book air tickets
+booking,get flight ticket
+booking,find me a ticket
+booking,show available flights
+booking,flight availability
+booking,check availability
+booking,book air travel
+booking,find air tickets
+booking,need to book
+booking,want to book
+booking,looking to book
+booking,help me find flights
+booking,search flight options
+booking,show me tickets
+booking,need flight booking
+booking,want flight booking
+booking,looking for booking
+booking,book travel
+booking,find travel options
+booking,need to fly
+booking,want to travel by air
+booking,book plane ticket
+booking,find plane tickets
+booking,check flight schedule
+booking,see flight schedule
+booking,view flight schedule
+booking,flight timings
+booking,check flight times
+booking,see available flights
+booking,view available flights
+booking,find available seats
+booking,check seats
+booking,book seats
+booking,reserve flight
+booking,make reservation
+booking,flight reservation
+booking,air ticket booking
+booking,plane booking
+booking,find flight deals
+booking,get flight deals
+booking,show flight deals
+booking,need to reserve
+booking,want to reserve
+booking,looking to reserve
+booking,book my flight
+booking,find my flight
+booking,search my flight
+booking,get tickets
+booking,book tickets
+booking,find tickets
+booking,need flight tickets
+booking,want flight tickets
+booking,looking for tickets
+booking,book my ticket
+booking,find my ticket
+booking,search my ticket
+booking,book my seat
+booking,find my seat
+booking,search my seat
+booking,need flight seat
+booking,want flight seat
+booking,looking for seat
+booking,book journey
+booking,plan journey
+booking,find journey
+booking,need to book flight
+booking,want to book flight
+booking,looking to book flight
+booking,help book flight
+booking,assist book flight
+booking,support book flight
+booking,flights available
+booking,tickets available
+booking,seats available
+booking,can i book flight
+booking,how to book flight
+booking,where to book flight
+confirmation,yes
+confirmation,yeah
+confirmation,yep
+confirmation,sure
+confirmation,okay
+confirmation,ok
+confirmation,fine
+confirmation,alright
+confirmation,right
+confirmation,correct
+confirmation,exactly
+confirmation,perfect
+confirmation,good
+confirmation,great
+confirmation,nice
+confirmation,yup
+confirmation,absolutely
+confirmation,definitely
+confirmation,certainly
+confirmation,of course
+confirmation,thats right
+confirmation,that's right
+confirmation,that is right
+confirmation,sounds good
+confirmation,looks good
+confirmation,seems good
+confirmation,perfect thanks
+confirmation,ok thanks
+confirmation,yes please
+confirmation,yeah please
+confirmation,sure please
+confirmation,okay please
+confirmation,alright thanks
+confirmation,right thanks
+confirmation,good thanks
+confirmation,great thanks
+confirmation,nice thanks
+confirmation,yup thanks
+confirmation,yes thank you
+confirmation,yeah thank you
+confirmation,sure thank you
+confirmation,okay thank you
+confirmation,perfect thank you
+confirmation,good thank you
+confirmation,great thank you
+confirmation,nice thank you
+confirmation,yup thank you
+confirmation,yes thats fine
+confirmation,yeah thats fine
+confirmation,sure thats fine
+confirmation,okay thats fine
+confirmation,alright thats fine
+confirmation,right thats fine
+confirmation,good thats fine
+confirmation,yes that's fine
+confirmation,yeah that's fine
+confirmation,sure that's fine
+confirmation,okay that's fine
+confirmation,alright that's fine
+confirmation,right that's fine
+confirmation,good that's fine
+confirmation,i agree
+confirmation,agreed
+confirmation,i confirm
+confirmation,confirmed
+confirmation,that works
+confirmation,works for me
+confirmation,fine with me
+confirmation,ok with me
+confirmation,good with me
+confirmation,yes i want
+confirmation,yeah i want
+confirmation,sure i want
+confirmation,okay i want
+confirmation,yes i do
+confirmation,yeah i do
+confirmation,sure i do
+confirmation,okay i do
+confirmation,proceed
+confirmation,go ahead
+confirmation,continue
+confirmation,lets go
+confirmation,do it
+confirmation,all good
+confirmation,sounds right
+confirmation,looks right
+confirmation,seems right
+confirmation,thats correct
+confirmation,that's correct
+confirmation,that is correct
+confirmation,k
+confirmation,kk
+confirmation,yep yep
+confirmation,yeah yeah
+confirmation,ok ok
+confirmation,yes yes
+confirmation,sure sure
+confirmation,right right
+confirmation,good good
+confirmation,fine fine
+confirmation,perfect perfect
+confirmation,exactly right
+confirmation,perfectly fine
+confirmation,totally fine
+confirmation,completely fine
+confirmation,absolutely fine
+confirmation,definitely fine
+cancellation,cancel flight
+cancellation,cancel booking
+cancellation,cancel ticket
+cancellation,cancel my flight
+cancellation,cancel my booking
+cancellation,cancel my ticket
+cancellation,need to cancel
+cancellation,want to cancel
+cancellation,please cancel
+cancellation,how to cancel
+cancellation,can i cancel
+cancellation,cancel reservation
+cancellation,cancel my reservation
+cancellation,cancel this flight
+cancellation,cancel this booking
+cancellation,cancel this ticket
+cancellation,cancel please
+cancellation,cancellation
+cancellation,flight cancellation
+cancellation,booking cancellation
+cancellation,ticket cancellation
+cancellation,help cancel
+cancellation,help me cancel
+cancellation,need cancellation
+cancellation,want cancellation
+cancellation,looking to cancel
+cancellation,wish to cancel
+cancellation,requesting cancellation
+cancellation,request cancellation
+cancellation,cancel it
+cancellation,cancel now
+cancellation,immediate cancellation
+cancellation,urgent cancellation
+cancellation,quick cancellation
+cancellation,cancel asap
+cancellation,help with cancellation
+cancellation,assist with cancellation
+cancellation,support for cancellation
+cancellation,stop booking
+cancellation,remove booking
+cancellation,delete booking
+cancellation,drop booking
+cancellation,terminate booking
+cancellation,end booking
+cancellation,stop reservation
+cancellation,remove reservation
+cancellation,delete reservation
+cancellation,cancel my trip
+cancellation,cancel the trip
+cancellation,stop my booking
+cancellation,remove my booking
+cancellation,delete my booking
+cancellation,drop my booking
+cancellation,terminate my booking
+cancellation,end my booking
+cancellation,stop my reservation
+cancellation,remove my reservation
+cancellation,delete my reservation
+cancellation,cancel all
+cancellation,cancel everything
+cancellation,need to stop booking
+cancellation,want to stop booking
+cancellation,need to end booking
+cancellation,want to end booking
+cancellation,cancel tickets please
+cancellation,cancel flight please
+cancellation,cancel booking please
+cancellation,please cancel my flight
+cancellation,please cancel my booking
+cancellation,please cancel my ticket
+cancellation,cancel my seat
+cancellation,cancel seat
+cancellation,cancel the seat
+cancellation,cancel seats
+cancellation,cancel my seats
+cancellation,cancel the seats
+cancellation,i want to cancel
+cancellation,i need to cancel
+cancellation,i wish to cancel
+cancellation,i want cancellation
+cancellation,i need cancellation
+cancellation,cancel this
+cancellation,cancel that
+cancellation,cancel these
+cancellation,cancel those
+cancellation,stop this
+cancellation,end this
+cancellation,remove this
+cancellation,delete this
+cancellation,cancel my travel
+cancellation,cancel the travel
+cancellation,cancel journey
+cancellation,cancel my journey
+cancellation,cancel the journey
+cancellation,stop my flight
+cancellation,end my flight
+cancellation,remove my flight
+cancellation,delete my flight
+cancellation,stop my ticket
+cancellation,end my ticket
+cancellation,remove my ticket
+cancellation,delete my ticket
+cancellation,how do i cancel
+cancellation,where to cancel
+cancellation,when can i cancel
+status,flight status
+status,check status
+status,whats the status
+status,what's the status
+status,is flight delayed
+status,flight delayed
+status,any delays
+status,check delays
+status,flight on time
+status,is it on time
+status,check flight
+status,track flight
+status,where's my flight
+status,wheres my flight
+status,flight tracking
+status,flight update
+status,status update
+status,flight info
+status,flight information
+status,current status
+status,latest status
+status,show status
+status,give me status
+status,need status
+status,want status
+status,my flight status
+status,check my flight
+status,track my flight
+status,show my flight
+status,flight time
+status,departure time
+status,arrival time
+status,when arrival
+status,when departure
+status,check arrival
+status,check departure
+status,flight schedule
+status,is it late
+status,how late
+status,any delay
+status,delay status
+status,delay info
+status,delay update
+status,flight delayed?
+status,on schedule?
+status,on time?
+status,running late?
+status,still on time?
+status,current time
+status,new time
+status,updated time
+status,estimated time
+status,actual time
+status,real time
+status,departure status
+status,arrival status
+status,boarding status
+status,gate status
+status,terminal status
+status,flight progress
+status,where now
+status,location now
+status,current location
+status,plane location
+status,flight location
+status,track status
+status,plane status
+status,aircraft status
+status,flight position
+status,plane position
+status,still departing
+status,still arriving
+status,expected delay
+status,expected arrival
+status,expected departure
+status,new arrival
+status,new departure
+status,status please
+status,updates please
+status,info please
+status,delayed?
+status,late?
+status,arrived?
+status,departed?
+status,landed?
+status,taken off?
+status,boarding?
+status,flight ok?
+status,flight okay?
+status,status now
+status,update now
+status,current update
+status,latest update
+status,recent update
+status,flight changes
+status,any changes
+status,status changes
+status,time changes
+status,schedule changes
+status,check times
+status,show times
+status,flight times
+status,departure info
+status,arrival info
+status,when lands
+status,when takes off
+help,help
+help,help me
+help,need help
+help,i need help
+help,please help
+help,help please
+help,assist me
+help,assistance
+help,need assistance
+help,support
+help,need support
+help,help required
+help,assistance needed
+help,support needed
+help,can you help
+help,could you help
+help,how to
+help,guide me
+help,help me out
+help,assist please
+help,please assist
+help,support please
+help,please support
+help,need guidance
+help,want help
+help,seeking help
+help,requesting help
+help,ask help
+help,need assistance please
+help,require assistance
+help,require help
+help,guidance please
+help,need guidance please
+help,help me please
+help,assist me please
+help,support me please
+help,guide me please
+help,help with this
+help,assist with this
+help,support with this
+help,guidance with this
+help,confused
+help,stuck
+help,lost
+help,not sure
+help,unsure
+help,dont understand
+help,don't understand
+help,having trouble
+help,got problem
+help,have problem
+help,need solution
+help,want solution
+help,seeking solution
+help,need answer
+help,want answer
+help,help needed
+help,assistance required
+help,support required
+help,guidance required
+help,cant understand
+help,can't understand
+help,explain please
+help,explain this
+help,explanation needed
+help,need explanation
+help,clarify please
+help,need clarification
+help,want clarification
+help,help me understand
+help,assist me understand
+help,guide me through
+help,help me with
+help,assist me with
+help,support me with
+help,guide me with
+help,facing issue
+help,having issue
+help,got issue
+help,need directions
+help,want directions
+help,help options
+help,support options
+help,assistance options
+help,guidance options
+help,what to do
+help,how do i
+help,show me how
+help,tell me how
+help,need info
+help,want info
+help,more info
+help,additional help
+help,further help
+help,extra help
+help,help desk
+help,support desk
+help,assistance desk
+help,help service
+help,support service
+help,assist service
+help,guide service
+help,sos
+help,emergency
+help,urgent help
+help,urgent assistance
+help,quick help
+help,quick assistance
+help,asap help
+help,immediate help
+farewell,bye
+farewell,goodbye
+farewell,bye bye
+farewell,see you
+farewell,see ya
+farewell,cya
+farewell,goodbye
+farewell,good bye
+farewell,byebye
+farewell,take care
+farewell,tc
+farewell,farewell
+farewell,catch you later
+farewell,later
+farewell,bye for now
+farewell,see you later
+farewell,talk later
+farewell,thanks bye
+farewell,thank you bye
+farewell,bye thanks
+farewell,bye thank you
+farewell,goodbye thanks
+farewell,goodbye thank you
+farewell,thanks goodbye
+farewell,thank you goodbye
+farewell,bye have a nice day
+farewell,goodbye have a nice day
+farewell,see you have a nice day
+farewell,bye good night
+farewell,goodbye good night
+farewell,night
+farewell,good night
+farewell,gn
+farewell,gtg
+farewell,got to go
+farewell,have to go
+farewell,need to go
+farewell,leaving now
+farewell,leaving
+farewell,exit
+farewell,quit
+farewell,end
+farewell,done
+farewell,finished
+farewell,that's all
+farewell,thats all
+farewell,all done
+farewell,im done
+farewell,i'm done
+farewell,im finished
+farewell,i'm finished
+farewell,completed
+farewell,im leaving
+farewell,i'm leaving
+farewell,going now
+farewell,bye now
+farewell,goodbye now
+farewell,see you now
+farewell,bye bye now
+farewell,catch you soon
+farewell,talk soon
+farewell,until next time
+farewell,see you next time
+farewell,bye see you next time
+farewell,goodbye see you next time
+farewell,ok bye
+farewell,okay bye
+farewell,alright bye
+farewell,right bye
+farewell,fine bye
+farewell,great bye
+farewell,perfect bye
+farewell,thanks see you
+farewell,thank you see you
+farewell,cheers
+farewell,cheers bye
+farewell,adios
+farewell,ciao
+farewell,peace
+farewell,peace out
+farewell,signing off
+farewell,logging off
+farewell,good day
+farewell,have a good day
+farewell,have a nice day
+farewell,have a great day
+farewell,good evening
+farewell,have a good evening
+farewell,have a nice evening
+farewell,have a great evening
+farewell,good afternoon
+farewell,have a good afternoon
+farewell,have a nice afternoon
+farewell,have a great afternoon
+farewell,bye for today
+farewell,goodbye for today
+farewell,see you tomorrow
+farewell,talk to you later
+farewell,ttyl
+farewell,bb
+farewell,bbye
+farewell,byee
+farewell,byeee
+farewell,see u
+farewell,cu
+farewell,bai
+farewell,bye!
